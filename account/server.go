@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/tinrab/spidey/account/pb"
+	"github.com/junichi4250/microservice-demo/account/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

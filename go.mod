@@ -1,4 +1,4 @@
-module github.com/tinrab/spidey
+module github.com/junichi4250/microservice-demo
 
 go 1.13
 

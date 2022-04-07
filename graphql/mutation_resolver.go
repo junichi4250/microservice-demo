@@ -3,9 +3,10 @@ package main
 import (
 	"context"
 	"errors"
-	"github.com/tinrab/spidey/order"
 	"log"
 	"time"
+
+	"github.com/junichi4250/microservice-demo/order"
 )
 
 var (

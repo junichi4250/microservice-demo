@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/99designs/gqlgen/graphql"
-	"github.com/tinrab/spidey/account"
-	"github.com/tinrab/spidey/catalog"
-	"github.com/tinrab/spidey/order"
+	"github.com/junichi4250/microservice-demo/account"
+	"github.com/junichi4250/microservice-demo/catalog"
+	"github.com/junichi4250/microservice-demo/order"
 )
 
 type Server struct {
