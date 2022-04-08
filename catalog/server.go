@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/tinrab/spidey/catalog/pb"
+	"github.com/junichi4250/microservice-demo/catalog/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

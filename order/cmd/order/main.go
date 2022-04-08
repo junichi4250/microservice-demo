@@ -4,9 +4,9 @@ import (
 	"log"
 	"time"
 
+	"github.com/junichi4250/microservice-demo/order"
 	"github.com/kelseyhightower/envconfig"
 	"github.com/tinrab/retry"
-	"github.com/tinrab/spidey/order"
 )
 
 type Config struct {

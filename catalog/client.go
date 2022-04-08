@@ -3,7 +3,7 @@ package catalog
 import (
 	"context"
 
-	"github.com/tinrab/spidey/catalog/pb"
+	"github.com/junichi4250/microservice-demo/catalog/pb"
 	"google.golang.org/grpc"
 )
 

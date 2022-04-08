@@ -8,9 +8,9 @@ import (
 	"log"
 	"net"
 
-	"github.com/tinrab/spidey/account"
-	"github.com/tinrab/spidey/catalog"
-	"github.com/tinrab/spidey/order/pb"
+	"github.com/junichi4250/microservice-demo/account"
+	"github.com/junichi4250/microservice-demo/catalog"
+	"github.com/junichi4250/microservice-demo/order/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
