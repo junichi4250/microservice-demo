@@ -2,7 +2,7 @@ schema: schema.graphql
 
 models:
   Account:
-    model: github.com/tinrab/spidey/graphql.Account
+    model: github.com/junichi4250/microservice-demo/graphql.Account
     fields:
       orders:
         resolver: true
