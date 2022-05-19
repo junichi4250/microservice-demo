@@ -1,4 +1,4 @@
-# Spidey
+# microservice-demo
 
 Online store based on microservices and GraphQL.
 
